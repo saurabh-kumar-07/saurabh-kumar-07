@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @saurabh-kumar-07
 - 👀 I’m interested in ...web development and design
-- 🌱 I’m currently learning ...web development and design
+- 🌱 I’m currently working as a frontend developer
 - 💞️ I’m looking to collaborate on ...some web developer
-- 📫 How to reach me ...the help of youtube
+
 
 <!---
 saurabh-kumar-07/saurabh-kumar-07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
